@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+	<!-- 256x256 with 20px padding -->
+	<!-- Clapperboard Base -->
+	<path fill="#e0e0e0" d="M20 70h216v146H20z"/>
+	<!-- Clapper Top (Closed) -->
+	<path fill="#478cbf" d="M20 30h216v40H20z"/>
+	<!-- Strips on the clapper -->
+	<path fill="#e0e0e0" d="M60 30l-30 40h40l30-40zm70 0l-30 40h40l30-40zm70 0l-30 40h40l30-40z"/>
+	<!-- Plus Symbol -->
+	<path fill="#478cbf" d="M160 110v35h-35v20h35v35h20v-35h35v-20h-35v-35z"/>
+	<!-- Lens/Circle detail -->
+	<circle cx="75" cy="155" r="35" fill="#478cbf" opacity="0.6"/>
+</svg>
