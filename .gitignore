@@ -6,6 +6,10 @@
 export.cfg
 export_presets.cfg
 
+# Godot locally generated files, not needed
+addons/movie_maker_plus/*.import
+addons/movie_maker_plus/*.uid
+
 # Imported translations (automatically generated from CSV files)
 *.translation
 
